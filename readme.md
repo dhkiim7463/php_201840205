@@ -10,3 +10,4 @@ $name = "abc";
 echo $abc; 
 echo ${$name}; 
 ```
+
