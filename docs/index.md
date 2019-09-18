@@ -3,8 +3,8 @@ layout: default
 ---
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h1 class="display-4">Fluid jumbotron</h1>
-    <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+    <h1 class="display-4">대림대학교 PHP 리포트 사이트</h1>
+    <p class="lead">김동현 201840205 입니다.</p>
   </div>
 </div>
 
