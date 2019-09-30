@@ -92,7 +92,7 @@ autoload.php 파일을 만든 뒤 left와 right php 파일을 연결해 주면 �
 일반 클래스와 다른 추상 클래스를 사용해 보자
 ![캡처32추상클래스](./images/캡처32 추상 클래스.PNG)
 
-추상 클래스는 선언을 위해서 abstract를 입력 후 사용한다.
+추상 클래스는 선언을 위해서 abstract를 입력 후 사용한다
 
 
 ## 9. namespace 사용 
