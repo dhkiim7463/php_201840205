@@ -6,7 +6,7 @@
 <Database 연동을 위한 선 작업>
 
 ## 1. PhP.ini 파일
-![캡처1database연동을위한작업](./images/캡처1 database연동을 위한 작업.PNG)
+![캡처1](./images/캡처1 database연동을 위한 작업.PNG)
 
 ## 2.php.ini 파일의 주석 활용
 ![캡처2주석뻬고다시서버시작하면활성화됨](./images/캡처2 주석 뻬고 다시 서버 시작하면 활성화 됨.PNG)
