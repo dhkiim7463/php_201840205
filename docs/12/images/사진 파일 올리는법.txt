@@ -1,0 +1,7 @@
+사진 파일 받고 php_www 아래 public 파일아래 images 파일 생성 후 거기에 사진 넣고 데이터 수정을 통해 
+사진 파일 jpg 까지 넣고 저장 그 후 select.html 을 복사해 goods.html로 만들고 
+$body = file_get_contents("../Resource/goods.html"); 로 바꿔주기 그리고 
+ $content .="<div>상품명:".$row->goodname."</div>";
+            $content .="<div><img src='/images/".$row->images."'></div>";
+            $content .="<div>가격:".$row->price."</div>";
+이미지 태그를 넣으면 완성!
