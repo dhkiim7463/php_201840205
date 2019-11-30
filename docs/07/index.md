@@ -3,7 +3,7 @@
 
 ##  Database 연동 및 실행 수업
 
-<Database 연동을 위한 선 작업>
+
 
 ## 1. PhP.ini 파일
 
